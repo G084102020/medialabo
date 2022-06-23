@@ -46,4 +46,4 @@ let data = {
 };
 
 ////////// 課題3-2 ここからプログラムを書こう
-
+console.log(temp_min, temp_max, );
