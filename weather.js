@@ -46,5 +46,6 @@ let data = {
 };
 
 ////////// 課題3-2 ここからプログラムを書こう
-console.log(coord, temp_min, temp_max);
+document.querySelector('dete');
+
 
