@@ -46,6 +46,13 @@ let data = {
 };
 
 ////////// 課題3-2 ここからプログラムを書こう
-document.querySelector('dete');
-let 
 
+console.log(data.name);
+console.log(data.main.temp_min);
+console.log(data.main.temp_max);
+let t = document.querySelector('span#tosi');
+t.textContent = tosi;
+let h = document.querySelector('span#saiki');
+h.textContent = saiki;
+let u = document.querySelector('span#teiki');
+u.textContent = teiki;
