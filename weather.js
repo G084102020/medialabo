@@ -47,5 +47,5 @@ let data = {
 
 ////////// 課題3-2 ここからプログラムを書こう
 document.querySelector('dete');
-
+let 
 
