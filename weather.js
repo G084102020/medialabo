@@ -77,7 +77,8 @@ let i = document.querySelector('input[name="a"]');
       h.textContent = data.main.temp_max;
       let u = document.querySelector('span#temp_min');
       u.textContent = data.main.temp_min;
-  
+      
+
       // data をコンソールに出力
       console.log(data);
   

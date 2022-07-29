@@ -1,3 +1,13 @@
-p, h1 {
-    color:aqua;
+h1 {
+    color:rgb(8, 102, 53);
+}
+html {
+    background-image:url(https://thumb.ac-illust.com/3c/3cd9eebb593422ee9b2d39808885bfbc_t.jpeg);
+    background-size: cover;
+}
+p{
+    font-size:1.2rem;
+}
+h2{
+    color:blueviolet;
 }

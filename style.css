@@ -1,3 +1,17 @@
-p, h1 {
-    color:aqua;
+h1 {
+    background-color:rgb(179, 202, 223);
+    
+}
+h2{
+    background-color:rgba(55, 230, 40, 0.521);
+}
+h3 {
+    background-color:rgb(16, 216, 213);
+}
+
+p{
+    font-size:1.2rem;
+}
+a:visited {
+    color: rgb(168, 15, 207);
 }
